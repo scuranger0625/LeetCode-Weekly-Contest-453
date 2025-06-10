@@ -1,4 +1,4 @@
-# LeetCode Weekly Contest 454 - Can Make Equal
+# LeetCode Weekly Contest 453 - Can Make Equal
 
 ## 題目描述
 給定一個只包含 1 和 -1 的整數陣列 nums，以及一個整數 k。  
