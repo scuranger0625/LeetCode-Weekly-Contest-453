@@ -1,5 +1,3 @@
-# LeetCode-Weekly-Contest-454
-454練習題目
 # LeetCode Weekly Contest 454 - Can Make Equal
 
 ## 題目描述
